@@ -1,4 +1,4 @@
-var LANG_KEY = "alist_lang";
+var LANG_KEY = "docker_image_index_lang";
 
 function applyLanguage(lang) {
   var root = document.documentElement;
@@ -88,7 +88,7 @@ function setupCopyButtons() {
     btn.className = "copy-btn";
     btn.type = "button";
     btn.innerText = "Copy";
-    
+
     btn.addEventListener("click", function (e) {
       e.preventDefault();
       e.stopPropagation();
