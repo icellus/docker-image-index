@@ -2,6 +2,8 @@
 
 这是一个用于 GitHub Pages 的静态站点。
 
+在线访问：[https://icellus.github.io/docker-image-index/](https://icellus.github.io/docker-image-index/)
+
 站点内容包括：
 
 - 常用 Docker 镜像项目总览
